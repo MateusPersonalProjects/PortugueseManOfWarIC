@@ -3,9 +3,9 @@
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 ![Python programming language](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<!-- <div align="center"> -->
-<!-- <img src="repoImage.png" alt="streetFighter Project image"> -->
-<!-- </div> -->
+<div align="center">
+<img src="repoImage.png" alt="PortugueseManOfWarIC Project image">
+</div>
 
 >The repository `PortugueseManOfWarIC` contains data cleaning scripts focused on date and location fields.  
 These scripts were developed to support a case study on sightings of Portuguese man o' war (Physalia physalis) along the Brazilian coastline.
@@ -62,7 +62,7 @@ If your dataset uses different column names, you **must modify the function** `s
 
 ## Contributing to PortugueseManOfWarIC
 
-To contribute to StreetFighter, follow these steps:
+To contribute to PortugueseManOfWarIC, follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <branch_name>`.
